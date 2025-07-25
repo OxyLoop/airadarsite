@@ -1,0 +1,241 @@
+/* src/app/styles/ozellikler.css */
+
+.ozellikler-main {
+
+  color: #333;
+  background-color: #ffffff;
+}
+
+/* Hero Section */
+.feature-hero-section {
+  padding: 100px 40px;
+  text-align: center;
+  background: url("/Banner1.jpg") center/cover no-repeat;
+  opacity: 0.8; /* Very light background */
+  z-index: 0;
+}
+
+ 
+
+.feature-hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.feature-hero-title {
+  font-family: "Unbounded", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 1rem;
+
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+  
+}
+
+.feature-hero-subtitle {
+  font-size: 1.25rem;
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+/* Feature Cards Section */
+.feature-cards-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  padding: 80px 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feature-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  border: 1px solid #e2e8f0;
+  background-size: cover;
+  background-position: center;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  
+}
+.feature-card-first:hover {
+  background-image: url("/feature1.jpg");
+}
+.feature-card-second:hover {
+  background-image: url("/feature2.webp");
+}
+.feature-card-third:hover {
+  background-image: url("/feature3.webp");
+}
+.feature-card-fourth:hover {
+  background-image: url("/feature4.webp");
+}
+.feature-card-fifth:hover {
+  background-image: url("/feature5.webp");
+}
+.feature-card-sixth:hover {
+  background-image: url("/feature6.jpg");
+}
+
+
+.feature-card:hover h3,
+.feature-card:hover p,
+.feature-card:hover .feature-icon {
+  color: #fff;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 1);
+}
+
+.feature-icon {
+  font-size: 3rem;
+  color: #4299e1; /* Professional Blue */
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+  
+}
+
+.feature-card h3 {
+  font-family: "Unbounded", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 15px;
+  color: #2d3748;
+  transition: color 0.3s ease;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.feature-card p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #718096;
+  transition: color 0.3s ease;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Promo Video Section */
+.promo-video-section {
+  padding: 80px 40px;
+  text-align: center;
+  background-color: #f7fafc;
+  position: relative;
+}
+
+.promo-video-section h2 {
+  font-family: "Unbounded", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 60px;
+}
+
+/* Yeni wrapper düzeni */
+.promo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 50px;
+  max-width: 1400px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+/* Ortak cihaz stil */
+.device {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.device img {
+  pointer-events: none;
+  z-index: 6;
+}
+
+/* Cihaz boyutları */
+.phone-device {
+  width: 180px;
+  z-index: 1;
+}
+
+.laptop-device {
+  width: 600px;
+  z-index: 1;
+}
+
+.meta-device {
+  width: 300px;
+}
+
+.promo-wrapper {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  column-gap: 50px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Video ve görüntü yerleşimi */
+.phone-image,
+.laptop-video {
+  position: absolute;
+  object-fit: cover;
+  border-radius: 12px;
+  z-index: 1;
+}
+/* Telefon ekranına video bindirme */
+.phone-image {
+  top: 0%;
+  left: 0%;
+  width: 98%;
+  height: 98%;
+  border-radius: 16px;
+  z-index: 2;
+}
+
+
+/* Laptop frame üstte dursun */
+.laptop-device img {
+  position: relative;
+  z-index: 2;
+}
+
+.promo-wrapper video {
+  top: 11%;
+  left: 11%;
+  width: 78%;
+  height: 80%;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+
+/* CTA Section */
+.cta-section {
+  background-color: #2d3748;
+  color: #fff;
+  text-align: center;
+  padding: 80px 40px;
+}
+
+.cta-section h2 {
+  font-family: "Unbounded", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.cta-section p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  color: #a0aec0;
+}

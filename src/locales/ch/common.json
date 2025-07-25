@@ -1,0 +1,212 @@
+{
+  "navbar": {
+    "home": "首页",
+    "features": "功能",
+    "about": "关于我们",
+    "gallery": "图片库",
+    "contact": "联系我们",
+    "demoRequest": "申请演示",
+    "login": "登录",
+    "register": "免费注册"
+  },
+  "footer": {
+    "home": "首页",
+    "features": "功能",
+    "about": "关于我们",
+    "gallery":"图片库",
+    "contact": "联系我们",
+    "contactTitle": "联系我们",
+    "address": "地址：Pınarbaşı, Hürriyet Cd., 07070 Konyaaltı/Antalya",
+    "email": "电子邮件: info@arsolution.com.tr",
+    "phone": "电话: +90 242 310 15 60",
+    "fax": "传真: +90 242 227 95 35",
+    "rightsReserved": "版权所有。"
+  },
+  "homeHero": {
+    "title": "欢迎来到 AIRADAR",
+    "subtitle": "用增强现实技术塑造教育的未来"
+  },
+  "galleryHero": {
+    "title": "画廊",
+    "subtitle": "来自我们应用程序的快照"
+  },
+  "contactHero": {
+    "title": "联系我们",
+    "subtitle": "与我们取得联系"
+  },
+  "featuresHero": {
+    "title": "塑造教育未来的技术",
+    "subtitle": "利用人工智能和增强现实的力量重新定义学习体验。打破边界，发现您的潜力。"
+  },
+  "aboutHero": {
+    "title": "关于我们",
+    "subtitle": "未来教育技术：用增强现实打破界限"
+  },
+  "demo": {
+    "title": "申请演示",
+    "subtitle": "填写表格以申请演示。",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "email": "电子邮件",
+    "phone": "电话号码",
+    "requestType": "请求类型",
+    "individual": "个人",
+    "corporate": "企业",
+    "companyName": "公司名称",
+    "description": "描述",
+    "submit": "提交演示请求"
+  },
+  "gallery": {
+    "title": "图片库"
+  },
+  "contact": {
+    "title": "联系我们",
+    "reachUs": "与我们联系",
+    "addressLabel": "地址：",
+    "address": "Pınarbaşı, Hürriyet Cd., 07070 Konyaaltı/Antalya",
+    "phoneLabel": "电话：",
+    "faxLabel": "传真：",
+    "emailLabel": "电子邮件：",
+    "sendMessage": "发送消息",
+    "namePlaceholder": "姓名",
+    "emailPlaceholder": "您的电子邮件",
+    "messagePlaceholder": "您的留言",
+    "submit": "发送"
+  },
+  "features": {
+    "card1": {
+      "title": "3D 磁共振成像分析",
+      "desc": "将 MRI 数据转换为 3D 模型，详细分析大脑结构和潜在异常。为更深入的诊断和教育提供交互式可视化。"
+    },
+    "card2": {
+      "title": "互动 AR/VR 内容",
+      "desc": "利用增强现实和虚拟现实创建沉浸式教育材料，将理论知识转化为实际体验。"
+    },
+    "card3": {
+      "title": "多人课堂",
+      "desc": "让多个用户同时进入虚拟环境，共同参加培训、协作和互动。"
+    },
+    "card4": {
+      "title": "跨平台支持",
+      "desc": "无论桌面、移动设备还是 VR 头显，随时随地无缝访问学习资料。"
+    },
+    "card5": {
+      "title": "用户友好界面",
+      "desc": "我们以易用性和快速访问为优先。凭借直观的设计，无需技术背景即可高效使用平台。"
+    },
+    "card6": {
+      "title": "实操学习",
+      "desc": "通过真实场景模拟和互动内容让知识更持久。边学边体验，边体验边巩固。"
+    },
+    "promoTitle": "深入了解我们的技术",
+    "phoneVideo": "手机视频",
+    "ctaTitle": "准备好探索 AIRADAR 吗？",
+    "ctaDesc": "迈出体验创新教育技术的第一步。",
+    "ctaButton": "申请演示"
+  },
+  "vision": {
+    "aboutTitle": "关于我们",
+    "aboutText": "AR ARGE 科技工业与贸易股份公司由 Uşak 大学儿科系的 Aysel Burcu İBİLİ 博士和 Afyonkarahisar 健康科学大学的 Emin İBİLİ 副教授创立，旨在开发工业和医疗领域的突破性项目。我们的公司通过使用数字孪生技术提高工业生产流程的效率，并通过增强现实（AR）应用使医疗诊断和治疗流程更加便捷和高效。同时，我们利用 AR 技术为用户带来有趣且富有教育意义的创新虚拟现实游戏，将其应用于教育、医疗、新一代游戏和数字孪生等多个领域。",
+    "visionTitle": "我们的愿景",
+    "visionText": "在 AR ARGE 科技，我们的愿景是利用技术的力量在工业和医疗领域开发创新解决方案，并通过增强现实让未来的数字世界在今天呈现。通过以用户为中心的设计、先进的技术整合和可持续创新，我们致力于为社会和行业创造价值。从教育到医疗，从虚拟现实游戏到数字孪生技术，我们的目标是打造革命性的解决方案，让未来的技术对所有人都可及。"
+  },
+  "home": {
+    "heroTitle": "探索并互动",
+    "heroSubtitle": "迈入增强现实的未来。",
+    "explore": "探索",
+    "buy": "购买",
+    "download": "下载",
+    "info": {
+      "subtitle": "什么是 AIRADAR?",
+      "title": "利用增强现实创新教育",
+      "text": "将 AR 与 CanvasLMS 相结合，通过提供实践学习和沉浸式体验来改变教育。",
+      "list1": "实践学习",
+      "list2": "多人课堂",
+      "list3": "3D 放射影像",
+      "more": "以及更多。"
+    },
+    "exploreFeatures": "探索功能",
+    "packages": {
+      "title": "套餐",
+      "lite": {
+        "name": "Lite XR EDU",
+        "features": [
+          "🎓 1 个课堂",
+          "⭐ 1 名教师",
+          "👨‍🎓 10 名学生",
+          "📚 课堂",
+          "📱 移动 + 网页 + PC",
+          "📂 LMS 集成 (Canvas)",
+          "💬 邮件支持"
+        ],
+        "price": "9,999₺"
+      },
+      "plus": {
+        "name": "Plus XR EDU",
+        "features": [
+          "🎓 10 个课堂",
+          "⭐ 5 名教师",
+          "👨‍🎓 100 名学生",
+          "📚 课堂 + 测验 + 游戏",
+          "📱 移动 + 网页 + PC + Meta Quest 3",
+          "📂 LMS 集成 (Canvas)",
+          "💬 邮件支持"
+        ],
+        "price": "19,999₺"
+      },
+      "premium": {
+        "name": "Premium XR EDU",
+        "features": [
+          "🎓 20 个课堂",
+          "⭐ 10 名教师",
+          "👨‍🎓 250 名学生",
+          "📚 课堂 + 测验 + 游戏",
+          "📱 移动 + 网页 + PC + Meta Quest 3 + Hololens 2",
+          "📂 LMS 集成 (Canvas)",
+          "💬 邮件 + 实时支持"
+        ],
+        "price": "99,999₺"
+      },
+      "advance": {
+        "name": "Advance XR EDU",
+        "features": [
+          "🎓 50 个课堂",
+          "⭐ 25 名教师",
+          "👨‍🎓 500 名学生",
+          "📚 课堂 + 测验 + 游戏 + MR",
+          "📱 移动 + 网页 + PC + Meta Quest 3 + Hololens 2",
+          "📂 LMS 集成 (Canvas)",
+          "💬 邮件 + 实时支持"
+        ],
+        "price": "249,999₺"
+      }
+    },
+    "downloadSection": {
+      "title": "立即下载",
+      "meta": {
+        "title": "Meta Quest 头显",
+        "features": [
+          "支持 Meta Quest 2、Meta Quest 3 和 Meta Quest Pro",
+          "支持触控控制器",
+          "需要网络连接"
+        ]
+      },
+      "windows": {
+        "title": "Windows/PC",
+        "features": [
+          "操作系统：Windows 7 SP1、Windows 8.1 或更高版本、Windows 10",
+          "处理器：Intel Core i5-4590 / AMD FX 8350 或更高",
+          "内存：8 GB RAM",
+          "显卡：NVIDIA GTX 1060 或更高"
+        ]
+      },
+      "android": {
+        "title": "安卓",
+        "features": [
+          "专为安卓设备优化",
+          "通过 Google Play 获取"
+        ]
+      }
+    }
+  }
+}

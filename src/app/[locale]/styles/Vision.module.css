@@ -1,0 +1,65 @@
+.visionSection {
+  padding: 80px 20px;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+}
+
+.cardGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.card {
+  background: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+}
+
+.iconWrapper i {
+  font-size: 3rem;
+  color: #4299e1; /* Özellikler sayfasındaki mavi ton */
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.text {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #555;
+}
+
+.imageCard {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+}

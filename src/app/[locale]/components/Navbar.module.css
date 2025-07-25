@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300;400;500;600&family=DM+Sans:wght@400;600&display=swap');
+
+
+
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.navbar .logo {
+  height: 50px;
+}
+
+.brandLogo {
+  font-family: 'Unbounded', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #000000; /* Ana mavi */
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: default;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.brandLogo:hover {
+  color: #1d35cc;
+  transform: scale(1.05);
+}
+
+
+.navbar nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #1e1e1e;
+  font-weight: 500;
+}
+.navlink {
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 4px;
+  transition: color 0.3s ease;
+}
+
+.navlink::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background-color: #000; /* alt çizgi rengi */
+  transition: width 0.3s ease;
+}
+
+.navlink:hover::after {
+  width: 100%;
+}
+
+.navbar .actions {
+  display: flex;
+  gap: 12px;
+}
+
+.buttonPrimary {
+  background-color: #e5385d;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.buttonOutline {
+  background-color: white;
+  color: #2e4fff;
+  border: 2px solid #2e4fff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.buttonDemo{
+  background-color: #e86815;
+  color: #ffffff;
+  padding: 10px 24px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.buttonDemo:hover {
+  background-color: #cf590f;  /* Hoverda biraz daha koyu turuncu */
+  transform: translateY(-2px); /* Hafif yukarı kalkma efekti */
+}
+
+.buttonOutline:hover {
+  background-color: #f0f0f0; /* Hoverda biraz daha açık gri */
+  transform: translateY(-2px); /* Hafif yukarı kalkma efekti */
+}
+
+.buttonPrimary:hover {
+  background-color: #d42f4c; /* Hoverda biraz daha koyu pembe */
+  transform: translateY(-2px); /* Hafif yukarı kalkma efekti */
+}
+
+.languageSwitcher {
+  margin-left: -50px;
+  position: relative;
+}
+
+.languageSelect {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.languageSelect:hover {
+  border-color: #2e4fff;
+}
+
+.languageSelect:focus {
+  outline: none;
+  border-color: #1d35cc;
+  box-shadow: 0 0 0 3px rgba(46, 79, 255, 0.2);
+}

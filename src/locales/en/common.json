@@ -1,0 +1,212 @@
+{
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "about": "About Us",
+    "gallery": "Photo Gallery",
+    "contact": "Contact",
+    "demoRequest": "Request Demo",
+    "login": "Login",
+    "register": "Free Sign Up"
+  },
+  "footer": {
+    "home": "Home",
+    "features": "Features",
+    "about": "About Us",
+    "gallery":"Photo Gallery",
+    "contact": "Contact",
+    "contactTitle": "Contact",
+    "address": "Address: Pınarbaşı, Hürriyet St., 07070 Konyaaltı/Antalya",
+    "email": "Email: info@arsolution.com.tr",
+    "phone": "Phone: +90 242 310 15 60",
+    "fax": "Fax: +90 242 227 95 35",
+    "rightsReserved": "All rights reserved."
+  },
+  "homeHero": {
+    "title": "Welcome to AIRADAR",
+    "subtitle": "Shaping the future of education with Augmented Reality"
+  },
+  "galleryHero": {
+    "title": "Gallery",
+    "subtitle": "Snapshots from Our Application"
+  },
+  "contactHero": {
+    "title": "Contact",
+    "subtitle": "Get in Touch with Us"
+  },
+  "featuresHero": {
+    "title": "Technologies Shaping the Future of Education",
+    "subtitle": "Redefining the learning experience with the power of AI and AR. Break boundaries and discover your potential."
+  },
+  "aboutHero": {
+    "title": "About Us",
+    "subtitle": "Future Education Technology: Breaking Boundaries with Augmented Reality"
+  },
+  "demo": {
+    "title": "Request a Demo",
+    "subtitle": "Fill out the form to request a demo.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "requestType": "Request Type",
+    "individual": "Individual",
+    "corporate": "Corporate",
+    "companyName": "Company Name",
+    "description": "Description",
+    "submit": "Submit Demo Request"
+  },
+  "gallery": {
+    "title": "Photo Gallery"
+  },
+  "contact": {
+    "title": "Contact",
+    "reachUs": "Get in Touch",
+    "addressLabel": "Address:",
+    "address": "Pınarbaşı, Hürriyet St., 07070 Konyaaltı/Antalya",
+    "phoneLabel": "Phone:",
+    "faxLabel": "Fax:",
+    "emailLabel": "Email:",
+    "sendMessage": "Send Message",
+    "namePlaceholder": "Full Name",
+    "emailPlaceholder": "Your Email Address",
+    "messagePlaceholder": "Your Message",
+    "submit": "Send"
+  },
+  "features": {
+    "card1": {
+      "title": "3D MRI Image Analysis",
+      "desc": "Transform MRI data into 3D models to analyze brain structures and potential anomalies in detail. Offers interactive visualization for deeper diagnosis and education."
+    },
+    "card2": {
+      "title": "Interactive AR/VR Content",
+      "desc": "Create immersive educational materials with augmented and virtual reality. Turn theoretical knowledge into practical experiences."
+    },
+    "card3": {
+      "title": "Multiplayer Classrooms",
+      "desc": "Enable multiple users to join virtual environments simultaneously for training, collaboration, and interaction."
+    },
+    "card4": {
+      "title": "Cross-Platform Support",
+      "desc": "Access learning materials anytime, anywhere—on desktop, mobile, or VR headsets—with seamless cross-platform support."
+    },
+    "card5": {
+      "title": "User-Friendly Interface",
+      "desc": "Our priority is ease of use and quick access. Thanks to our intuitive design, you can use the platform efficiently without technical expertise."
+    },
+    "card6": {
+      "title": "Hands-On Learning",
+      "desc": "Reinforce knowledge with real scenario-based simulations and interactive content. Learn by experiencing and solidifying knowledge."
+    },
+    "promoTitle": "Discover Our Technology",
+    "phoneVideo": "Phone video",
+    "ctaTitle": "Ready to Explore AIRADAR?",
+    "ctaDesc": "Take the first step to experience our innovative educational technologies.",
+    "ctaButton": "Request a Demo"
+  },
+  "vision": {
+    "aboutTitle": "About Us",
+    "aboutText": "AR ARGE Technology Industry and Trade Inc. was founded by Dr. Aysel Burcu İBİLİ (Uşak University) and Assoc. Prof. Dr. Emin İBİLİ (Afyonkarahisar University of Health Sciences) to develop groundbreaking projects in industry and healthcare. Our company aims to increase efficiency in industrial production processes using digital twin technologies while making diagnosis and treatment processes in healthcare more accessible and effective through AR applications. We also engage users with innovative VR games that are both fun and educational, leveraging AR technology at the highest level across education, healthcare, next-generation gaming, and digital twin applications.",
+    "visionTitle": "Our Vision",
+    "visionText": "Our vision at AR ARGE Technology is to leverage the power of technology to develop innovative solutions in industry and healthcare while bringing the digital world of the future to life today with augmented reality. Through user-focused design, advanced technology integration, and sustainable innovation, we strive to add value to society and the sector. From education to healthcare, VR gaming to digital twin technologies, our goal is to create revolutionary solutions and make the technologies of the future accessible to everyone."
+  },
+  "home": {
+    "heroTitle": "Discover and Interact",
+    "heroSubtitle": "Step into the future of augmented reality.",
+    "explore": "Explore",
+    "buy": "Buy",
+    "download": "Download",
+    "info": {
+      "subtitle": "What is AIRADAR?",
+      "title": "Innovation in Education with Augmented Reality",
+      "text": "Integrating AR with CanvasLMS transforms education by offering hands-on learning and immersive experiences.",
+      "list1": "Hands-On Learning",
+      "list2": "Multiplayer Classrooms",
+      "list3": "3D Radiological Imaging",
+      "more": "And Much More."
+    },
+    "exploreFeatures": "Explore Features",
+    "packages": {
+      "title": "Packages",
+      "lite": {
+        "name": "Lite XR EDU",
+        "features": [
+          "🎓 1 Class",
+          "⭐ 1 Teacher",
+          "👨‍🎓 10 Students",
+          "📚 Class",
+          "📱 Mobile + Web + PC",
+          "📂 LMS Integration (Canvas)",
+          "💬 Email Support"
+        ],
+        "price": "9,999₺"
+      },
+      "plus": {
+        "name": "Plus XR EDU",
+        "features": [
+          "🎓 10 Classes",
+          "⭐ 5 Teachers",
+          "👨‍🎓 100 Students",
+          "📚 Class + Quiz + Game",
+          "📱 Mobile + Web + PC + Meta Quest 3",
+          "📂 LMS Integration (Canvas)",
+          "💬 Email Support"
+        ],
+        "price": "19,999₺"
+      },
+      "premium": {
+        "name": "Premium XR EDU",
+        "features": [
+          "🎓 20 Classes",
+          "⭐ 10 Teachers",
+          "👨‍🎓 250 Students",
+          "📚 Class + Quiz + Game",
+          "📱 Mobile + Web + PC + Meta Quest 3 + Hololens 2",
+          "📂 LMS Integration (Canvas)",
+          "💬 Email + Live Support"
+        ],
+        "price": "99,999₺"
+      },
+      "advance": {
+        "name": "Advance XR EDU",
+        "features": [
+          "🎓 50 Classes",
+          "⭐ 25 Teachers",
+          "👨‍🎓 500 Students",
+          "📚 Class + Quiz + Game + MR",
+          "📱 Mobile + Web + PC + Meta Quest 3 + Hololens 2",
+          "📂 LMS Integration (Canvas)",
+          "💬 Email + Live Support"
+        ],
+        "price": "249,999₺"
+      }
+    },
+    "downloadSection": {
+      "title": "Download Now",
+      "meta": {
+        "title": "Meta Quest Headsets",
+        "features": [
+          "Supports Meta Quest 2, Meta Quest 3, and Meta Quest Pro",
+          "Supports Touch Controllers",
+          "Internet Connection Required"
+        ]
+      },
+      "windows": {
+        "title": "Windows/PC",
+        "features": [
+          "OS: Windows 7 SP1, Windows 8.1 or later, Windows 10",
+          "Processor: Intel Core i5-4590/AMD FX 8350 or better",
+          "Memory: 8 GB RAM",
+          "Graphics: NVIDIA GTX 1060 or better"
+        ]
+      },
+      "android": {
+        "title": "Android",
+        "features": [
+          "Tailored for Android devices",
+          "Available on Google Play"
+        ]
+      }
+    }
+  }
+}

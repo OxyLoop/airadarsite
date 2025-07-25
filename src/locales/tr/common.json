@@ -1,0 +1,169 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "about": "Hakkımızda",
+    "gallery": "Foto Galeri",
+    "contact": "İletişim",
+    "demoRequest": "Demo Talep Et",
+    "login": "Giriş Yap",
+    "register": "Ücretsiz Kayıt"
+  },
+  "footer": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "about": "Vizyonumuz",
+    "gallery":"Foto Galeri",
+    "contact": "İletişim",
+    "contactTitle": "İletişim",
+    "address": "Adres: Pınarbaşı, Hürriyet Cd., 07070 Konyaaltı/Antalya",
+    "email": "Email: info@arsolution.com.tr",
+    "phone": "Telefon: +90 242 310 15 60",
+    "fax": "Faks: +90 242 227 95 35",
+    "rightsReserved": "Tüm hakları saklıdır."
+  },
+  "homeHero": {
+    "title": "AIRADAR'a Hoşgeldiniz",
+    "subtitle": "Artırılmış Gerçeklik ile eğitimin geleceğini şekillendiriyoruz"
+  },
+  "galleryHero": {
+    "title": "Galeri",
+    "subtitle": "Uygulamamızdan Görüntüler"
+  },
+  "contactHero": {
+    "title": "İletişim",
+    "subtitle": "Bize Ulaşın"
+  },
+  "featuresHero": {
+    "title": "Eğitimin Geleceğini Şekillendiren Teknolojiler",
+    "subtitle": "Yapay zeka ve artırılmış gerçeklik gücüyle öğrenme deneyimini yeniden tanımlıyoruz. Sınırları kaldırın, potansiyelinizi keşfedin."
+  },
+  "aboutHero": {
+    "title": "Hakkımızda",
+    "subtitle": "Geleceğin Eğitim Teknolojisi: Artırılmış Gerçeklikle Sınırları Kaldırın"
+  },
+  "demo": {
+    "title": "Demo Talep Edin",
+    "subtitle": "Ürünümüzü yakından tanımak için formu doldurun.",
+    "firstName": "İsim",
+    "lastName": "Soyisim",
+    "email": "E-posta",
+    "phone": "Telefon Numarası",
+    "requestType": "Talep Türü",
+    "individual": "Bireysel",
+    "corporate": "Kurumsal",
+    "companyName": "Şirket Adı",
+    "description": "Açıklama",
+    "submit": "Demo Talebini Gönder"
+  },
+  "gallery": {
+    "title": "Foto Galeri"
+   },
+   "contact": {
+    "title": "İletişim",
+    "reachUs": "Bize Ulaşın",
+    "addressLabel": "Adres:",
+    "address": "Pınarbaşı, Hürriyet Cd., 07070 Konyaaltı/Antalya",
+    "phoneLabel": "Telefon:",
+    "faxLabel": "Faks:",
+    "emailLabel": "E-posta:",
+    "sendMessage": "Mesaj Gönderin",
+    "namePlaceholder": "Ad-Soyad",
+    "emailPlaceholder": "E-posta Adresiniz",
+    "messagePlaceholder": "Mesajınız",
+    "submit": "Gönder"
+  },
+  "features": {
+    "card1": {
+      "title": "3D MR Görüntüsü Analizi",
+      "desc": "Manyetik rezonans (MR) verilerini 3D modellere dönüştürerek beyin yapıları ve olası anomalileri ayrıntılı şekilde analiz edin. Daha derin teşhis ve eğitim için etkileşimli görselleştirme imkanı sunar."
+    },
+    "card2": {
+      "title": "Etkileşimli AR/VR İçerikleri",
+      "desc": "Artırılmış ve sanal gerçeklik ile sürükleyici eğitim materyalleri oluşturun. Teorik bilgiyi pratiğe dökerek öğrenmeyi bir deneyime dönüştürün."
+    },
+    "card3": {
+      "title": "Çok Oyunculu Sınıflar",
+      "desc": "Birden fazla kullanıcının aynı anda sanal bir ortamda bir araya gelerek eğitimlere katılabileceği, işbirliği yapabileceği ve etkileşimde bulunabileceği sanal sınıflar oluşturun."
+    },
+    "card4": {
+      "title": "Çoklu Platform Desteği",
+      "desc": "Masaüstü, mobil veya VR başlıkları... Platformdan bağımsız, kesintisiz erişimle öğrenme materyallerinize her an, her yerden ulaşın."
+    },
+    "card5": {
+      "title": "Kullanıcı Dostu Arayüz",
+      "desc": "Kolay kullanım ve hızlı erişim önceliğimizdir. Sezgisel tasarımımız sayesinde teknik bilgiye ihtiyaç duymadan platformu verimli bir şekilde kullanabilirsiniz."
+    },
+    "card6": {
+      "title": "Uygulamalı Öğrenme",
+      "desc": "Gerçek senaryolara dayalı simülasyonlar ve etkileşimli içeriklerle bilgiyi kalıcı hale getirin. Öğrenirken deneyimleyin, deneyimlerken pekiştirin."
+    },
+    "promoTitle": "Teknolojimizi Yakından Tanıyın",
+    "phoneVideo": "Telefon videosu",
+    "ctaTitle": "AIRADAR'ı Keşfetmeye Hazır mısınız?",
+    "ctaDesc": "Yenilikçi eğitim teknolojileriyle tanışmak için ilk adımı atın.",
+    "ctaButton": "Demo Talep Et"
+  },
+  "vision": {
+    "aboutTitle": "Hakkımızda",
+    "aboutText": "AR ARGE Teknoloji Sanayi ve Ticaret A.Ş., sanayi ve sağlık alanlarında çığır açan projeler geliştirmek amacıyla Uşak Üniversitesi Çocuk Sağlığı ve Hastalıkları Bölümü öğretim üyesi Dr. Aysel Burcu İBİLİ ve Afyonkarahisar Sağlık Bilimleri Üniversitesi öğretim üyesi Doç. Dr. Emin İBİLİ tarafından kurulmuştur. Şirketimiz, sanayide dijital ikiz teknolojilerini kullanarak üretim süreçlerini daha verimli hale getirmeyi, sağlık sektöründe artırılmış gerçeklik (AR) uygulamalarıyla teşhis ve tedavi süreçlerini daha erişilebilir ve etkili kılmayı amaçlamaktadır. Ayrıca, yenilikçi sanal gerçeklik oyunları ile kullanıcıları hem eğlenceli hem de öğretici deneyimlerle buluşturuyor, AR teknolojisini eğitimden sağlığa, yeni nesil oyunlardan dijital ikizlere kadar birçok alanda en ileri seviyede kullanıyoruz.",
+    "visionTitle": "Vizyonumuz",
+    "visionText": "AR ARGE Teknoloji olarak vizyonumuz, teknolojinin gücünü kullanarak sanayi ve sağlık alanlarında yenilikçi çözümler geliştirmek ve artırılmış gerçeklik ile geleceğin dijital dünyasını bugünden yaşatmak. Her projemizde kullanıcı odaklı tasarım, ileri teknoloji entegrasyonu ve sürdürülebilir inovasyon anlayışıyla topluma ve sektöre değer katıyoruz. Eğitimden sağlığa, sanal gerçeklik oyunlarından dijital ikiz teknolojilerine kadar geniş bir alanda devrim yaratmayı hedefliyoruz. Amacımız, kullanıcılarımızın ihtiyaçlarına en uygun çözümleri sunarak geleceğin teknolojilerini herkes için erişilebilir kılmaktır."
+  },
+  "home": {
+    "heroTitle": "Keşfet Etkileşime Geç",
+    "heroSubtitle": "Artırılmış gerçekliğin geleceğine adım atın.",
+    "explore": "Keşfet",
+    "buy": "Satın Al",
+    "download": "İndir",
+    "info": {
+      "subtitle": "AIRADAR Nedir?",
+      "title": "Artırılmış Gerçeklik ile eğitimde yenilik",
+      "text": "AR ile CanvasLMS’in birleştirilmesi, uygulamalı öğrenme ve sürükleyici deneyimler sunarak eğitimi dönüştürüyor.",
+      "list1": "Uygulamalı Öğrenme",
+      "list2": "Çok Oyunculu Sınıflar",
+      "list3": "3D Radyolojik Görüntüleme",
+      "more": "Ve Daha Fazlası."
+    },
+    "exploreFeatures": "Özellikleri Keşfedin",
+    "packages": {
+      "title": "Paketler",
+      "lite": {
+        "name": "Lite XR EDU",
+        "features": ["🎓 1 Sınıf", "⭐ 1 Öğretmen", "👨‍🎓 10 Öğrenci", "📚 Class", "📱 Mobil + Web + PC", "📂 LMS entegrasyonu (Canvas)", "💬 Email"],
+        "price": "💰 9.999₺"
+      },
+      "plus": {
+        "name": "Plus XR EDU",
+        "features": ["🎓 10 Sınıf", "⭐ 5 Öğretmen", "👨‍🎓 100 Öğrenci", "📚 Class + Quiz + Game", "📱 Mobil + Web + PC + Metaquest 3", "📂 LMS entegrasyonu (Canvas)", "💬 Email"],
+        "price": "💰 19.999₺"
+      },
+      "premium": {
+        "name": "Premium XR EDU",
+        "features": ["🎓 20 Sınıf", "⭐ 10 Öğretmen", "👨‍🎓 250 Öğrenci", "📚 Class + Quiz + Game", "📱 Mobil + Web + PC + Metaquest 3 + Hololens 2", "📂 LMS entegrasyonu (Canvas)", "💬 Email + Live Support"],
+        "price": "💰 99.999₺"
+      },
+      "advance": {
+        "name": "ADVANCE XR EDU",
+        "features": ["🎓 50 Sınıf", "⭐ 25 Öğretmen", "👨‍🎓 500 Öğrenci", "📚 Class + Quiz + Game + MR", "📱 Mobil + Web + PC + Metaquest 3 + Hololens 2", "📂 LMS entegrasyonu (Canvas)", "💬 Email + Live Support"],
+        "price": "💰 249.999₺"
+      }
+    },
+    "downloadSection": {
+      "title": "Şimdi İndir",
+      "meta": {
+        "title": "Meta Quest Headsets",
+        "features": ["Supports Meta Quest 2, Meta Quest 3, and Meta Quest Pro", "Supports Touch Controllers", "Internet Connection Required"]
+      },
+      "windows": {
+        "title": "Windows/PC",
+        "features": ["OS: Windows 7 SP1, Windows 8.1 or later, Windows 10", "Processor: Intel Core i5-4590/AMD FX 8350 or better", "Memory: 8 GB RAM", "Graphics: NVIDIA GTX 1060 or better"]
+      },
+      "android": {
+        "title": "Android",
+        "features": ["Android cihazlara özel", "Google Play üzerinden erişin"]
+      }
+    }
+  }
+}
+
